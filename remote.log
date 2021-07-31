@@ -1,0 +1,1 @@
+cf04003f-a5d7-4782-8bfd-88f6b3827714 autoenable=true bucket=snd-2020-51-in-progress datacenter=US encryption=none exporttree=yes fileprefix=datasets/datalad_nested_test/subdataset2/ host=s3.ki.se name=datalad_nested_test-subdataset2 port=80 protocol=https public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1627748464.805738772s
